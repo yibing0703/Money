@@ -1,0 +1,948 @@
+{\rtf1\ansi\ansicpg936\uc1\deflang2052\adeflang2052\deflangfe2052\deff4\stshfloch5\stshfhich5\stshfbi5\stshfdbch5
+{\fonttbl
+{\f0\fswiss\fcharset134 Microsoft YaHei;}
+{\f1\fswiss\fcharset0 Microsoft YaHei;}
+{\f2\froman\fcharset134 Century Schoolbook;}
+{\f3\froman\fcharset0 Century Schoolbook;}
+{\f4\fnil\fcharset134 \u23435 ?\u20307 ?;}
+{\f5\fnil\fcharset0 \u23435 ?\u20307 ?;}
+}
+{\colortbl
+;
+\red0\green0\blue0
+;
+\red0\green0\blue255
+;
+\red0\green255\blue255
+;
+\red0\green255\blue0
+;
+\red255\green0\blue255
+;
+\red255\green0\blue0
+;
+\red255\green255\blue0
+;
+\red255\green255\blue255
+;
+\red0\green0\blue128
+;
+\red0\green128\blue128
+;
+\red0\green128\blue0
+;
+\red128\green0\blue128
+;
+\red128\green0\blue0
+;
+\red128\green128\blue0
+;
+\red128\green128\blue128
+;
+\red192\green192\blue192
+;
+\red0\green102\blue204
+;
+\red20\green20\blue20
+;
+}
+{\*\defchp\fs24\afs24\loch\af5\hich\af5\dbch\af5}
+{\*\defpap\aspalpha\aspnum\faauto\adjustright\cgrid\li0\ri0\ltrpar\ql\fi0\sb0\sa0\sl240\slmult1}
+{\stylesheet
+{\aspalpha\aspnum\faauto\adjustright\cgrid\li0\ri0\ltrpar\ql\fi0\sb0\sa0\sl240\slmult1\lang2052\langfe2052\f4\fs24\afs24\charscalex100\expndtw0
+\cf1\dn0 Normal;}
+{\*\cs10\additive Default Paragraph Font;}
+{\*\cs15\additive\ul\cf17\sbasedon10 Hyperlink;}
+{\*\cs16\additive\f0\b0\i0\ul0\strike0\scaps0\fs36\afs36\sbasedon10 \u26631 ?\u-26472 ? #2 Exact;}
+{\*\cs17\additive\f0\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0\sbasedon21 \u26631 ?\u-26472 ? #2
+ Exact;}
+{\*\cs18\additive\f0\b0\i0\ul0\strike0\scaps0\fs54\afs54\expndtw30\sbasedon10\slink27 \u27491 ?\u25991 ?\u25991 ?\u26412 ?
+ (3)_;}
+{\*\cs19\additive\f0\b0\i0\ul0\strike0\scaps0\fs70\afs70\expndtw70\sbasedon10\slink28 \u26631 ?\u-26472 ? #1_;}
+{\*\cs20\additive\lang1033\langfe1033\f3\b\i0\ul0\strike0\scaps0\fs90\afs90\expndtw0\sbasedon19 \u26631 ?\u-26472 ? #1 +
+ Century Schoolbook,45 pt,\u31895 ?\u20307 ?,\u-27148 ?\u-29219 ? 0 pt;}
+{\*\cs21\additive\f0\b0\i0\ul0\strike0\scaps0\fs36\afs36\cf18\sbasedon10\slink26 \u26631 ?\u-26472 ? #2_;}
+{\*\cs22\additive\f0\b0\i0\ul0\strike0\scaps0\fs36\afs36\cf8\sbasedon21 \u26631 ?\u-26472 ? #2;}
+{\*\cs23\additive\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26\sbasedon10\slink29 \u27491 ?\u25991 ?\u25991 ?\u26412 ? (2)_;}
+{\*\cs24\additive\f0\b\i0\ul0\strike0\scaps0\fs54\afs54\cf8\sbasedon21 \u26631 ?\u-26472 ? #2 + 27 pt,\u31895 ?\u20307 ?;}
+{\*\cs25\additive\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\sbasedon23 \u27491 ?\u25991 ?\u25991 ?\u26412 ?
+ (2);}
+{\s26\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\qc\sb1260\sa780\sl0\slmult0\outlinelevel1\f0\b0\i0\ul0\strike0\scaps0\fs36\afs36\cf18
+\sbasedon0\slink21 \u26631 ?\u-26472 ? #2;}
+{\s27\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\sa360\sl0\slmult0\f0\b0\i0\ul0\strike0\scaps0\fs54\afs54\expndtw30\sbasedon0\slink18
+\u27491 ?\u25991 ?\u25991 ?\u26412 ? (3);}
+{\s28\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\sb360\sa1260\sl0\slmult0\outlinelevel0\f0\b0\i0\ul0\strike0\scaps0\fs70\afs70\expndtw70
+\sbasedon0\slink19 \u26631 ?\u-26472 ? #1;}
+{\s29\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\qc\sb780\sl-540\slmult0\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26\sbasedon0\slink23
+\u27491 ?\u25991 ?\u25991 ?\u26412 ? (2);}
+}
+{\info
+{\title}
+{\subject}
+{\author}
+{\keywords}
+}
+\paperw11909\paperh31680\margl2151\margr1627\margt0\margb0\gutter0\viewkind1\viewzk1\fet2\splytwnine\ftnlytwnine\htmautsp\useltbaln\alntblind
+\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\newtblstyruls\nogrowautofit\usenormstyforlist
+\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notvatxbx\krnprsnet\cachedcolbal\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\nolnhtadjtbl\notbrkcnstfrctbl\dgmargin\dghspace181\dgvspace181\dghshow1\dgvshow1\sectd\ltrsect
+\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\li340\sa260\sl-540\slmult0\wrapdefault\s27\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs54\afs54\expndtw30
+{\shp
+{\*\shpinst\shpleft6037\shptop-1170\shpright8543\shpbottom3572\shpfhdr0\shpbxmargin\shpbypara\shpwr2\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz0
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2506\pichgoal4742
+89504E470D0A1A0A0000000D4948445200000105000001EE0100000000BE6E247D0000000970485973000017120000171201679FD2520000089F49444154789CEDDA3F6F
+24B7150070CE0DE04971D0965600C18CE1C2ADCB0B72F0E4A324C817D8CE57181E1E545C177D03DF1709A0115CA831A03A557850A13223B810ED1B0F433E7276F8F73D3B
+27CB674303DCEE69F7A7593EFE7DE48A69EA6295D7EFEE41DC3C88B8FECD88370F226EDF1331DD87181E44F4F7203825D47D88DDBB8BB92345FBEE62A145430A5612DF87
+A428DE46622888EF42214AE23A127D41DC448217C46528C65D419C85427689587A4ACC46F0504C6D226CCFED7131E8F8524D22E4A07F8C054BC498348B9E53F132691623
+86583449B398E6EF2361BB5454E9E61D1E09DB2D2F51A1DAA44A4DD3ED2231E5624C449754BA115D24642E642CCC2D6DEB46A28D04EBA075C36B8AC452106BD339A18C50
+4322582AD2F69F332163603E7908C4C47699D09190465CA4C28FA94DBC44C568C4692A469E880E15A224E42E12DDB243053382A7620AC4C2583B67422542F598988B624E
+443670F5128B46A24231C6C614689D88E61DC5541667B1685121CBE2F5CF11A31159E36B7D4E8A9E14432CB20E742F62D19B10E57B2482FFE2823D84587E9AE8CBEF2FA4
+98C97228442C0329E0712263C184DB6B4944FC171EC74D54FA072D445D1CFAE021DA54B83CC12C10B59CCE5FF33B8973789C1031C0A3AC8BD93D8DACAF099FD088BAF0C9
+08AB8B2B785C1071EE4A5317F3004FAA2E947B32D3682D5A9FCCCABAF059D358173E271291380F805F166DC7D165E1B3953916AF03E17784AA2E7CA621EDA2B289AB409C
+1E0A1A8A20715CD654CC2E19A138DCC5AFB44B22AEB7BB287E286817888B4DF82DE394894FD6FF8E4EB8E97E13A31981FEF23B1337E02331F8505C9EB5646258B72C3ECD
+566E02DC8478BEE7BEA04ED8829AFF45C28F6EB92658A978BAF76BAE70F7B080853B1CF1C1D19A9136AE342E1B08447BB4C600421DBB953C10ECC84D77B313A3ABD2485C
+B8EC49B9F9E854BA9929147F9F3A17A57D5A3AE9E6D050FC51B52E4A2B141F73717CE4D7452B26A88F3E16CC05E3B2840B10432C9E7C6CB78A8BCB565AD74B937B40D915
+08D31185A389685C83719BDF0BF77189602E29E2F6C448B80523E81FCCB5A50BE114441F09C97C9FB2C20E6DC1DCA49F88CE2DAD76680BD73E916846930DC3674D502F6D
+7E0FC91AE89DC3F5A1E612F119637B88680782E7E218CAC21AD853F9957E13B6A69E3AD1DAC972613E978FEED13AD1BD01D11644E32A965F6AB7FB2AD4C75F41F4672078
+22A0D6FF06E2AB416F1BDC44B86060565F4F40924F81601A98D5E7361530903F80606156575D5140B81D14713DBB4A04F39DC47E6A8F0857725D17AE88A7999007E1269A
+FC8464135080C39639EDC98782FAD5B22CE047A5332156E06AEA3A17877BB8225EE5E250520E3FF6B9505128DBB589390AA52474144A51F8A2A65BAE404C61B0984893BB
+40A830D8A2588AA184E2304FD5C5580A2512D3D6C12A4295828DC45C0A36125B66FFB626C41AEC9B9A90E958C9845A833D74E354CC6BB0E1E9512A7CB0BC2E7CB0AFEBE5
+F0BF7C5517BE00371531E56D1F08BB6D9AF2B64F842C9D1C6C425B01D5111F9644B775EB79702E5E102E79682831B3AA10AEC2FE1975A3444019BBA82B2662D036378982
+4E7AA115732BC2AA4D847D5466D9E565E1D3AC89C9B0A80521D9141635163E537A111635169D8BE8CBB08D0B82B1CFC37E128B9DF67BA760CACC85E9CE5C04E1C623DBBE
+6EBBF3D89C21C274453E05B3482C7A27764BA53E1408698755A54E15C428937928178A14332A3ED587DCB2225C028609685251177ED84A540C7ACDB52B62DFC313720FD8
+9F28561D953F457CE53B08211654F88E3AD485AF54E41E2004760FB7B7A98B27032C1BB22E5AB3EDD387FD5C51FC87128CFDA9D7878D5445706D2B151350EDC7B5996E6A
+A4DB861DF39AE8FC46EDA4AF899D2F415D709F81FFAB264C56EB66961911821083DFC72B44C84FA14098F8C72AEE2A62BAF105DA56DCB238DE5584D6B7B021907FE8B66F
+C912F1D609D6DED5844B0946D6DCBC2A09BBCD835F35F9D02B5CD8A4ABF86DF52A6C0A79448AA7A438A90A5B5136FB7B860A9B41BE280A15887D55D80D85CD53252ACCBB
+62448599005EE2E21BB3CD124561CF3B6D666A9AE4152B8BC109F3E6D1B69C46EBAD175C2F1FD5C52D3CCDCF71616AE4455D4C5060B92F0B7BBAABE0AC799415D183F8DE
+56D8963C44E21C3EC214A515A8903623DB26CC346535A5FD564F47B8107A3C0996878230E9D80B44E87E6136216B103133D9484C9C2B265B5440FE31068B722E6C1E14A6
+20B930590E0FB753B930BBBA135C98C9E359B8BB2C8ABD44851970B7B29239C26507ED8DAC649F7099609BB3B192C1AEA2E51213B64A87A99227AFF7E8742DFB846BB4B5
+A53001DBD3A9929FDA6B81830759C94FED35C30656F2BA70DBD370194BC5049965F8C57441747A3BE12E08090D7F8188113604D78810301E6F10819EA178911E2BE40239
+43F1023943F182E362C9BFB8CCC5800B970197FF70CA5D2E8B9E50618395889820D80B54700D4B5055C8FC5BDA4C0CA448412A461BEC0D2A6CDB5F6242D8EA6851B10BFF
+0CAE28B88E867541F4365DA684C4C560FEE1C2BE840A966D9212614FAAE7A42306623B848DCE2F03211231FC4A2201C9DFA0E9C3C1E676F144CC2958E7094CB48FE27726
+B87FA12AD69FEB62585F1035B123EFD13D88A0CBF17B129C140325820CBA22FA47F17F89BBF7A41C8FE25712CB2FF929435DA86A39A8AB7B1489F88C14CF48F19C149F3F
+210551D88EF5A4E06794D8DD83B824C5ED6B4ACC9C120B290652F45F53827F8DB7BFA98F6FF784E8C689101F5E50E2A38612BC9584D89D92E292143723213A52B4778210
+CD1D0A8C78FAC331218EF6F8A833B1D8834E54744251826CDB8E6CDBEE9A122D2DBE9384D8DD8DA41094F8020550A754BBEC043E5F5A41D6FA4BB24EBFA104DDD7F9E548
+88BF5C0942FCF90A0576F520E7A0672794F8120720464A749498B9A0444F8A010546A8EC542315FF2E6C7D63718177202B464A10C008410B7C69B0E3962C29C73BB25DC5
+2425869112D97154268866798F32B647F1F3C4EE7FD040C1C658031A6C0000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs18\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs54\afs54\charscalex100\expndtw30\cf1\dn0 \u31532 ?17\u23626 ?\u20013 ?\u22269 ?\u22522 ?
+\u-28207 ?\u19994 ?\u-28207 ?\u29275 ?\u22870 ?}
+\par
+\pard\plain\li1260\keep\keepn\sa1137\sl-900\slmult0\outlinelevel0\wrapdefault\s28\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0
+\strike0\scaps0\fs70\afs70\expndtw70
+{\*\bkmkstart bookmark6}
+{\cs20\lang1033\langfe1033\f3\b\i0\ul0\strike0\scaps0\fs90\afs90\charscalex100\expndtw0\cf1\dn0 C}
+{\cs19\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs70\afs70\charscalex100\expndtw70\cf1\dn0 \u-31817 ?\u22870 ?\u21517 ?\u21333 ?}
+{\cs20\lang1033\langfe1033\f3\b\i0\ul0\strike0\scaps0\fs90\afs90\charscalex100\expndtw0\cf1\dn0 J}
+{\*\bkmkend bookmark6}
+\par
+\pard\plain\cbpat1\qc\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0
+\strike0\scaps0\fs36\afs36\cf18
+{\shp
+{\*\shpinst\shpleft-795\shptop-240\shpright1634\shpbottom634\shpfhdr0\shpbxmargin\shpbypara\shpwr2\shpwrk2
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz1
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2429\pichgoal874
+89504E470D0A1A0A0000000D49484452000000FD0000005B0100000000900BBEA20000000970485973000017120000171201679FD252000000FB494441544889EDD6310E
+C22014C67108C31B3902677037E04DBC829B3555E8D6D123F42ADDBA187B054D0747BBD9C1442757FE83313146567E49E1E3F18AAA5476487EFA0F5E634DE006F31AC125
+3F6F0C00A9DF06FB0E405F138024E598009C1E00CE00CC00519B0E7298F500363D045538086AEBE0137301E00DACC10B80600138DA850B70DC96804400C30ED630960404
+C064E9B01038D845A41CFCDBC02558A4252025D4C3822A6A4515555092914040D050D13670B32C01A1FE600E00740B807F28049C823E695BEAB4D88A476AC5D3350FF41D
+808A4B00DE02509F0789DE0F09EE850A540F8EEAC1C259284D801F39DFF012FB1550017802A5BA535075F27A6D0000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 490220}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\*\bkmkstart bookmark7}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u-28207 ?\u29275 ?\u22522 ?\u-28207 ?\u31649 ?
+\u29702 ?\u20844 ?\u21496 ?}
+{\*\bkmkend bookmark7}
+\par
+\pard\plain\qc\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\shp
+{\*\shpinst\shpleft-795\shptop5790\shpright1634\shpbottom6664\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz2
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2429\pichgoal874
+89504E470D0A1A0A0000000D49484452000000FD0000005B0100000000900BBEA20000000970485973000017120000171201679FD252000000FB494441544889EDD6310E
+C22014C67108C31B3902677037E04DBC829B3555E8D6D123F42ADDBA187B054D0747BBD9C1442757FE83313146567E49E1E3F18AAA5476487EFA0F5E634DE006F31AC125
+3F6F0C00A9DF06FB0E405F138024E598009C1E00CE00CC00519B0E7298F500363D045538086AEBE0137301E00DACC10B80600138DA850B70DC96804400C30ED630960404
+C064E9B01038D845A41CFCDBC02558A4252025D4C3822A6A4515555092914040D050D13670B32C01A1FE600E00740B807F28049C823E695BEAB4D88A476AC5D3350FF41D
+808A4B00DE02509F0789DE0F09EE850A540F8EEAC1C259284D801F39DFF012FB1550017802A5BA535075F27A6D0000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 790575}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\shp
+{\*\shpinst\shpleft2880\shptop6000\shpright4778\shpbottom6477\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz3
+{\sp{\sn shapeType}{\sv 202}}
+{\sp{\sn dxTextLeft}{\sv 0}}
+{\sp{\sn dyTextTop}{\sv 0}}
+{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn fFitShapeToText}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 800100}}
+{\sp{\sn dyWrapDistBottom}{\sv 120650}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\shptxt
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark0}
+{\cs17\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u-28207 ?\u29275 ?\u-28709 ?\u21462 ?\u22870 ?}
+{\*\bkmkend bookmark0}
+\par
+}
+}
+}
+{\shp
+{\*\shpinst\shpleft6037\shptop5790\shpright8543\shpbottom6664\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz4
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2506\pichgoal874
+89504E470D0A1A0A0000000D49484452000001050000005B0100000000521EAD0F0000000970485973000017120000171201679FD25200000114494441544889EDD6B14E
+C330108061234BB80B788401C5AFC01854845F291B0CA83113236F505EC51143964A99D98C1858410C895004753A31DDBF6440A29E3FC9F6DDF9CE4AC1B20494F967E21C
+4589E212C5158B43121EAE63947B2061671006C5C72389C1911851AC50F802C55ACE7F8EE9A60261E33B881314FE8E447190E81C1AC53D8A9684798B20741F5088208BA3
+AF5310C795FCEAF25DD40D0813061211454399332F24F42B8ACF44BBF41184C5BCD86B11EC62BA2011E47E39098AA9C5D7609E487025BB3682F05D00B1EC4490C5C59A44
+794682E7CBAD8A240C89D105121E452D82A9F37F93781E493472014D22918832C822CC20349ED4A1F089448DE2279080B46421CFC1BFF4A7DB8BDFCB6E0111E951636178
+79E80000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u26131 ?\u26041 ?\u-28738 ?\u22522 ?\u-28207 ?
+\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u26223 ?\u-26502 ?\u-27265 ?\u22478 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u21326 ?\u23433 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u20132 ?\u-27402 ?\u26045 ?\u32599 ?\u24503 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u20013 ?\u27431 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u-27402 ?\u21326 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u-32607 ?\u20221 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u20852 ?\u-29759 ?\u20840 ?\u29699 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u23500 ?\u22269 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u-25009 ?\u21326 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u24191 ?\u21457 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\li480\qc\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\shp
+{\*\shpinst\shpleft-795\shptop2040\shpright1634\shpbottom2914\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz5
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2429\pichgoal874
+89504E470D0A1A0A0000000D49484452000000FD0000005B0100000000900BBEA20000000970485973000017120000171201679FD252000000FD494441544889EDD6210E
+C23014C6F136154F3E89EC19F0A4E3265C01C708639B4372845D65C1CC107685110486843926484061FB17338450DB5FB6EEEBEB5B4D69A243E2D37FF0192B020F98B708
+AEF179E700C86E34D83700DA1D0148524E0580DB0BC01980BB40D4AE811CA62D80750B41A51E82CA3C3C6126B08640F510045E9128004F5FE113D86E2520398043016BE8
+36007A0130286D96C222333F16040A0A81A7A0744B8797929C53924B4A3225901348105454B4151C1C2520D41FDC1180AD01F00F85801AE8935A53A7ED08F4D48A877B1C
+D82700932F00040560C603BA1E1408A0D39A84EAC1533D28EC85B104CC84C037DCC47E059400DEB75951511ABF9CCF0000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 200025}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\shp
+{\*\shpinst\shpleft1950\shptop2250\shpright5685\shpbottom2727\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz6
+{\sp{\sn shapeType}{\sv 202}}
+{\sp{\sn dxTextLeft}{\sv 0}}
+{\sp{\sn dyTextTop}{\sv 0}}
+{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn fFitShapeToText}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 223520}}
+{\sp{\sn dyWrapDistBottom}{\sv 120650}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\shptxt
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark1}
+{\cs17\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u26435 ?\u25644 ?\u-29372 ?\u-28207 ?\u29275 ?
+\u22522 ?\u-28207 ?\u20844 ?\u21496 ?}
+{\*\bkmkend bookmark1}
+\par
+}
+}
+}
+{\shp
+{\*\shpinst\shpleft6037\shptop2040\shpright8543\shpbottom2914\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz7
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2506\pichgoal874
+89504E470D0A1A0A0000000D49484452000001050000005B0100000000521EAD0F0000000970485973000017120000171201679FD25200000114494441544889EDD6AF6E
+02311CC0F192CBA8DA8A03B15C5F010981ACAF841B8240C904923760AF5214F2EC04E216C4EC08E22ED905E84DA17E5F7362C9A8FEA4F9FD69FBAB52B00C01A5FF99E8A3
+18A018A37861D126E1201DADEC9A8469406814C77712A52551391273DCC3A5283672FF634DF71310267C83E8A2704B12692BA73812142B143B12FA2B90283C88A4104114
+8F3F3D104F53F9D6C55CD41484F6258980624B9DD39F2492038A530EE2A108200CF6C5BC8AE0B7A61D125E7E2F6B413535781BF41B093EC9761740B8CC831865228862B8
+21317826C1F365C642071095F5241C8A05C5519E497C5424B6F201AA454E22C8200ADF805861A41685CB492C505C3C09684B14F21CFC4B7FBABBB85DE60A317F512927F3
+F1C20000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u20449 ?\u-28738 ?\u28595 ?\u-27402 ?\u22522 ?
+\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u28023 ?\u23500 ?\u-28646 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u27859 ?\u24503 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\li480\qc\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\shp
+{\*\shpinst\shpleft-795\shptop17805\shpright1125\shpbottom18679\shpfhdr0\shpbxmargin\shpbymargin\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz8
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal1920\pichgoal874
+89504E470D0A1A0A0000000D49484452000000C80000005B01000000001ED1F7DE0000000970485973000017120000171201679FD252000000EA494441544889EDD4310E
+82500C80E1D697F89C781740F118B2C855BC818E9A1025E11A7A17981C1CBC02C6C111121748081A777F1359B5235F0AED7BA592C8AF87873241997F2F8B98A46ABF97A6
+46A9500A9433491BA04424F196644DFD0C43121752A7CE50A72EA5B7D90425A3FBB11955602F5481B9A2DC0A10459192C45FD2777CB7029908E5048A27AA54814B518E24
+B68798926AD312FF05CC1909E5788AF3C6A79393F084589E903BCDA8A24883B2D993CC7C920F9B8F440B949A77084A87B21B934407127722313989680FC170050A4EAFC5
+3B351D893EB004DCD73240F9C72B92F78FA7F204D99D53432268F8A20000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 304800}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\shp
+{\*\shpinst\shpleft1605\shptop18015\shpright6060\shpbottom18492\shpfhdr0\shpbxmargin\shpbymargin\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz9
+{\sp{\sn shapeType}{\sv 202}}
+{\sp{\sn dxTextLeft}{\sv 0}}
+{\sp{\sn dyTextTop}{\sv 0}}
+{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn fFitShapeToText}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 242570}}
+{\sp{\sn dyWrapDistBottom}{\sv 120650}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\shptxt
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark2}
+{\cs17\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u22266 ?\u23450 ?\u25910 ?\u30410 ?\u25237 ?
+\u-29372 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?\u20844 ?\u21496 ?}
+{\*\bkmkend bookmark2}
+\par
+}
+}
+}
+{\shp
+{\*\shpinst\shpleft6442\shptop17805\shpright8544\shpbottom18679\shpfhdr0\shpbxmargin\shpbymargin\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz10
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2102\pichgoal874
+89504E470D0A1A0A0000000D49484452000000DB0000005B0100000000D248CD350000000970485973000017120000171201679FD2520000010B494441544889EDD4316A
+42411485E1090F325518C1268578B79052519CAD6409765A489C9022A53BD0AD8C95A51BB078C1C256B0F0853C923CD39FBF305DC8B41F331CCE5CAE73FA4430677F091F
+087B8443C211E22D60F4801600C3E25AF42BC01361A527C55CADBB37F74418BB84CBB146DB01867CD4D826B467C0EE4D09370BC0F04AB801F4870C784E1A0BC2BB8F7B08
+349533DFA09B42A0540166C23514EFDF008B3DE1A98467CF5963A0FAC244D94F432DC02497CD05A1A140A3E95F0071C06C9335C66DD238D82A6BB0BF04EC750071DFCE1C
+049AF9ACB136B85947C23904AA3E01DF6BC0B5FCEB0B9680595A83E96AF414C80863093827FCD289CCE96A1B7C2484F38FBFC2F80D79F75A332B3C4A420000000049454E
+44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u26223 ?\u-26502 ?\u-27265 ?\u22478 ?\u22522 ?
+\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u19978 ?\u28023 ?\u19996 ?\u26041 ?\u-29759 ?\u21048 ?\u-29372 ?\u20135 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u27665 ?\u29983 ?\u21152 ?\u-27402 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\li480\qc\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\shp
+{\*\shpinst\shpleft-795\shptop1410\shpright1634\shpbottom2284\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz11
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2429\pichgoal874
+89504E470D0A1A0A0000000D49484452000000FD0000005B0100000000900BBEA20000000970485973000017120000171201679FD252000000FB494441544889EDD6310E
+C22014C67108C31B3902677037E04DBC829B3535D0CDD123F42ADDBA187B859A0E8E76B383894EAEFC87C6C41859F925858FC72BAA52D921F9E93F788F2D813BCC6B04D7
+FCBC3100E4301B1C5B00DD81002429E704A07F02B8003003446D5AC861D101D8751054E120A8BD834F2C058037B0062F008205E068172EC0715B0212010C09D6D0970046
+0130593A2C040E761129073F1B380ACA129012EA614515B5A18A2A28C9482020A8A9686BB8599680507F302700BA01C03F14024E419FB40D755A6CC523B5E2E99607FA01
+40C535006F01A8CF8344EF8704F74205AA0747F560E12C9426C08F9C6F7889FD0AA800BC00462A5342504F5FB70000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 200025}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\shp
+{\*\shpinst\shpleft1950\shptop1620\shpright5685\shpbottom2097\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz12
+{\sp{\sn shapeType}{\sv 202}}
+{\sp{\sn dxTextLeft}{\sv 0}}
+{\sp{\sn dyTextTop}{\sv 0}}
+{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn fFitShapeToText}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 223520}}
+{\sp{\sn dyWrapDistBottom}{\sv 120650}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\shptxt
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark3}
+{\cs17\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u-30549 ?\u21160 ?\u25237 ?\u-29372 ?\u-28207 ?
+\u29275 ?\u22522 ?\u-28207 ?\u20844 ?\u21496 ?}
+{\*\bkmkend bookmark3}
+\par
+}
+}
+}
+{\shp
+{\*\shpinst\shpleft6037\shptop1410\shpright8543\shpbottom2284\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz13
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2506\pichgoal874
+89504E470D0A1A0A0000000D49484452000001050000005B0100000000521EAD0F0000000970485973000017120000171201679FD25200000116494441544889EDD6B14E
+C330108061A348B84BF1084315BF42C7A056F12B6583A12266EAC81BB4AFE2AA43974A99D98C1858410C895004389D98EE5F3A54A29E3FC9F6DDF9CE4AC1320494FE6762
+8AA240314751B2B824E1E03A5AD92712E60842A3F85893E82C891EC5030A97A358C9F94F31DD57204C7807718DA27C24915F443A47866289624742BF0512AD0791B52248
+62FC7503E2AA925F5DBA8BBA07A17D4722A0D850E6F40B89EC15C567A45DDA00C2605ECC9D080E311D91F072BF1C04C5D4E06BD05B125CC9761740B8C68398352248E276
+45A29890E0F9B250818426D15B4FC2A1A8453074FE6F12CF3D898D5C40838824820C92F04710199ED4A27091448DE2C79380B42421CFC153FAD39DC5DF657E0127D05166
+4AB431920000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u26131 ?\u26041 ?\u-28738 ?\u22522 ?\u-28207 ?
+\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u25307 ?\u21830 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\li480\qc\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\shp
+{\*\shpinst\shpleft-795\shptop2520\shpright1634\shpbottom3394\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz14
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2429\pichgoal874
+89504E470D0A1A0A0000000D49484452000000FD0000005B0100000000900BBEA20000000970485973000017120000171201679FD25200000104494441544889EDD6210E
+C23014C6F13615954F222BD178B272133802098211C63637C9117615829921EC0A23080C09734C9000E100FD8B1942A8ED2F5BF7F5F5AD2A57A1311B06A7DFC3FEC1672C
+09DC615E23B884E78D01608BDE605B01A80B0290A43D6600AE4F002700E60C519B0A7218D500563504153B082A71F084B1853544540F9185577801E0E82B9C87ED160236
+05B0CF600DCD02406B0174429B25B0C8C4F505110585C05150B2A1C3BB0630A124E794644C2025E0119454B4251C1C2160A93F980300BD03C03F1402A2A04FCA8E3A6D43
+A0A556DCDDC2403F00A8740A201200AA3FA0EB4186003AADF2540F8EEA41602F9426A00604BEE126F62B2007F0024EDB51C9589E6B740000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 204470}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\shp
+{\*\shpinst\shpleft1957\shptop2730\shpright5685\shpbottom3214\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz15
+{\sp{\sn shapeType}{\sv 202}}
+{\sp{\sn dxTextLeft}{\sv 0}}
+{\sp{\sn dyTextTop}{\sv 0}}
+{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn fFitShapeToText}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 223520}}
+{\sp{\sn dyWrapDistBottom}{\sv 116205}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\shptxt
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark4}
+{\cs17\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u-24735 ?\u-27056 ?\u-29372 ?\u-28207 ?\u29275 ?
+\u22522 ?\u-28207 ?\u20844 ?\u21496 ?}
+{\*\bkmkend bookmark4}
+\par
+}
+}
+}
+{\shp
+{\*\shpinst\shpleft6037\shptop2520\shpright8543\shpbottom3394\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz16
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2506\pichgoal874
+89504E470D0A1A0A0000000D49484452000001050000005B0100000000521EAD0F0000000970485973000017120000171201679FD2520000010A494441544889EDD6BD0E
+41311880E1CA099DA88D41F4168C84E82DD918848AC1E80EB8959A8C5683E188C14A0CE7244E502EA0AF4162E09B9F34DF4FFF8480500484FC31D140D144D141D1655120
+61A01C29F49C84FA809028CE4B12A926911912235CC3D4512CC2F3F73DDDF5402877025141612624EAB998F28850CC50AC49C8A3239158105112045E14AF5510A541F8D4
+F95AC40084B4290987624593937B12D101C52506914F1C08857351FD2078F5B44CC286EFCBA7A09E2A3C0D724A8277B25E3B10666341B43741E0456B41A25923C1EFCB90
+857420326D49181463CA23BD91D8662456E10DF414310917065ED80F881966AA519898C418C5DD9280B1BCF553A2F88B6F08F500C33050E9E9792C8D0000000049454E44
+AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u22025 ?\u23454 ?\u22522 ?\u-28207 ?\u31649 ?
+\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u21335 ?\u26041 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u-32607 ?\u20221 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u21326 ?\u22799 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u21326 ?\u27888 ?\u26575 ?\u29790 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\li480\qc\sl-260\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\shp
+{\*\shpinst\shpleft-795\shptop990\shpright1634\shpbottom1864\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz17
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2429\pichgoal874
+89504E470D0A1A0A0000000D49484452000000FD0000005B0100000000900BBEA20000000970485973000017120000171201679FD25200000104494441544889EDD6210E
+C23014C6F13615954F222BD178B272133802098211C63637C9117615829921EC0A23080C09734C9000E100FD8B1942A8ED2F5BF7F5F5AD2A57A1311B06A7DFC3FEC1672C
+09DC615E23B884E78D01608BDE605B01A80B0290A43D6600AE4F002700E60C519B0A7218D500563504153B082A71F084B1853544540F9185577801E0E82B9C87ED160236
+05B0CF600DCD02406B0174429B25B0C8C4F505110585C05150B2A1C3BB0630A124E794644C2025E0119454B4251C1C2160A93F980300BD03C03F1402A2A04FCA8E3A6D43
+A0A556DCDDC2403F00A8740A201200AA3FA0EB4186003AADF2540F8EEA41602F9426A00604BEE126F62B2007F0024EDB51C9589E6B740000000049454E44AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 204470}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\shp
+{\*\shpinst\shpleft1957\shptop1200\shpright5685\shpbottom1677\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz18
+{\sp{\sn shapeType}{\sv 202}}
+{\sp{\sn dxTextLeft}{\sv 0}}
+{\sp{\sn dyTextTop}{\sv 0}}
+{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn fFitShapeToText}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 223520}}
+{\sp{\sn dyWrapDistBottom}{\sv 120650}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\shptxt
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark5}
+{\cs17\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u-28209 ?\u21270 ?\u25237 ?\u-29372 ?\u-28207 ?
+\u29275 ?\u22522 ?\u-28207 ?\u20844 ?\u21496 ?}
+{\*\bkmkend bookmark5}
+\par
+}
+}
+}
+{\shp
+{\*\shpinst\shpleft6037\shptop990\shpright8543\shpbottom1864\shpfhdr0\shpbxmargin\shpbypara\shpwr1\shpwrk0
+{\sp{\sn fBehindDocument}{\sv 1}}
+\shpz19
+{\sp{\sn shapeType}{\sv 75}}
+{\sp
+{\sn pib}
+{\sv
+{\pict\pngblip\picwgoal2506\pichgoal874
+89504E470D0A1A0A0000000D49484452000001050000005B0100000000521EAD0F0000000970485973000017120000171201679FD2520000010A494441544889EDD6BD0E
+41311880E1CA099DA88D41F4168C84E82DD918848AC1E80EB8959A8C5683E188C14A0CE7244E502EA0AF4162E09B9F34DF4FFF8480500484FC31D140D144D141D1655120
+61A01C29F49C84FA809028CE4B12A926911912235CC3D4512CC2F3F73DDDF5402877025141612624EAB998F28850CC50AC49C8A3239158105112045E14AF5510A541F8D4
+F95AC40084B4290987624593937B12D101C52506914F1C08857351FD2078F5B44CC286EFCBA7A09E2A3C0D724A8277B25E3B10666341B43741E0456B41A25923C1EFCB90
+857420326D49181463CA23BD91D8662456E10DF414310917065ED80F881966AA519898C418C5DD9280B1BCF553A2F88B6F08F500C33050E9E9792C8D0000000049454E44
+AE426082
+}
+}
+}
+{\sp
+{\sn pWrapPolygonVertices}
+{\sv 8;5;(0,0);(21600,0);(21600,21600);(0,21600);(0,0)}
+}
+{\sp{\sn dxWrapDistLeft}{\sv 63500}}
+{\sp{\sn dxWrapDistRight}{\sv 63500}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u24191 ?\u21457 ?\u22522 ?\u-28207 ?\u31649 ?
+\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\li480\qc\sa1860\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u23500 ?\u22269 ?\u22522 ?\u-28207 ?\u31649 ?
+\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?\line
+\u21326 ?\u27888 ?\u26575 ?\u29790 ?\u22522 ?\u-28207 ?\u31649 ?\u29702 ?\u26377 ?\u-27056 ?\u20844 ?\u21496 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sa509\sl-540\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark8}
+{\cs24\lang2052\langfe2052\b\i0\ul0\strike0\scaps0\fs54\afs54\charscalex100\expndtw0\cf8\dn0 I}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 \u19971 ?\u31946 ?\u24320 ?\u-29365 ?\u-32607 ?
+\u31080 ?\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?}
+{\cs24\lang2052\langfe2052\b\i0\ul0\strike0\scaps0\fs54\afs54\charscalex100\expndtw0\cf8\dn0 I}
+{\*\bkmkend bookmark8}
+\par
+\pard\plain\li480\qc\sa738\sl-533\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u26131 ?\u26041 ?\u-28738 ?\u28040 ?\u-29383 ?
+\u-30644 ?\u19994 ?\u-32607 ?\u31080 ?\line
+\u27719 ?\u20016 ?\u26187 ?\u20449 ?\u22823 ?\u30424 ?\u-32607 ?\u31080 ?\line
+\u30003 ?\u19975 ?\u-31759 ?\u20449 ?\u-28209 ?\u21270 ?\u23567 ?\u30424 ?\u-32607 ?\u31080 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 (}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 LOF}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 )}
+\par
+\pard\plain\cbpat1\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark9}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u20116 ?\u31946 ?\u24320 ?\u-29380 ?\u-32607 ?
+\u31080 ?\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark9}
+\par
+\pard\plain\li480\qc\sa684\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u22025 ?\u23454 ?\u26032 ?\u20852 ?\u20135 ?
+\u19994 ?\u-32607 ?\u31080 ?\line
+\u23433 ?\u20449 ?\u20215 ?\u20540 ?\u31934 ?\u-28663 ?\u-32607 ?\u31080 ?\line
+\u-25009 ?\u21326 ?\u20859 ?\u-32767 ?\u20135 ?\u19994 ?\u-32607 ?\u31080 ?\line
+\u22269 ?\u23500 ?\u20013 ?\u23567 ?\u30424 ?\u-32607 ?\u31080 ?}
+\par
+\pard\plain\cbpat1\ri620\qr\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0
+\i0\ul0\strike0\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark10}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 :\u31946 ?\u24320 ?\u-29380 ?\u-32607 ?\u31080 ?
+\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?}
+{\*\bkmkend bookmark10}
+\par
+\pard\plain\li480\qc\sa684\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u20449 ?\u-28738 ?\u28595 ?\u-27402 ?\u26032 ?
+\u-32515 ?\u28304 ?\u20135 ?\u19994 ?\u-32607 ?\u31080 ?\line
+\u20013 ?\u27431 ?\u26102 ?\u20195 ?\u20808 ?\u-27381 ?\u-32607 ?\u31080 ?\line
+\u24037 ?\u-27402 ?\u29790 ?\u20449 ?\u25991 ?\u20307 ?\u20135 ?\u19994 ?\u-32607 ?\u31080 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark11}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u19971 ?\u31946 ?\u24320 ?\u25918 ?\u25110 ?
+\u-28297 ?\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark11}
+\par
+\pard\plain\li480\qc\sa684\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u20132 ?\u-27402 ?\u20248 ?\u21183 ?\u-30644 ?
+\u19994 ?\u28151 ?\u21512 ?\line
+\u21335 ?\u26041 ?\u20248 ?\u-28663 ?\u25104 ?\u-27265 ?\u28151 ?\u21512 ?\line
+\u20852 ?\u20840 ?\u-29301 ?\u21183 ?\u25237 ?\u-29372 ?\u28151 ?\u21512 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 (}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 LOF}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 )\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u23453 ?\u30408 ?\u26680 ?\u24515 ?\u20248 ?
+\u21183 ?\u28151 ?\u21512 ?\line
+\u-27402 ?\u21326 ?\u20013 ?\u23567 ?\u30424 ?\u31934 ?\u-28663 ?\u28151 ?\u21512 ?\line
+\u21326 ?\u23433 ?\u-28666 ?\u21521 ?\u31574 ?\u30053 ?\u28151 ?\u21512 ?\line
+\u27719 ?\u28155 ?\u23500 ?\u20215 ?\u20540 ?\u31934 ?\u-28663 ?\u28151 ?\u21512 ?\line
+\u-29702 ?\u24503 ?\u25104 ?\u-27265 ?\u20248 ?\u21183 ?\u28151 ?\u21512 ?\line
+\u21326 ?\u27888 ?\u26575 ?\u29790 ?\u20215 ?\u20540 ?\u22686 ?\u-27265 ?\u28151 ?\u21512 ?\line
+\u20013 ?\u27431 ?\u26032 ?\u-31523 ?\u31609 ?\u28151 ?\u21512 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark12}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u20116 ?\u31946 ?\u24320 ?\u25918 ?\u25110 ?
+\u-32562 ?\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark12}
+\par
+\pard\plain\li480\qc\sa684\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u20132 ?\u-27402 ?\u26032 ?\u25104 ?\u-27265 ?
+\u28151 ?\u21512 ?\line
+\u26131 ?\u26041 ?\u-28738 ?\u20013 ?\u23567 ?\u30424 ?\u28151 ?\u21512 ?\line
+\u20852 ?\u20840 ?\u-28805 ?\u-29372 ?\u20135 ?\u28151 ?\u21512 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 (}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 LOF}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 )\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u19975 ?\u23478 ?\u-30644 ?\u19994 ?\u20248 ?
+\u-28663 ?\u28151 ?\u21512 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 (}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 LOF}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 )\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u21326 ?\u21830 ?\u20248 ?\u21183 ?\u-30644 ?
+\u19994 ?\u28151 ?\u21512 ?\line
+\u26032 ?\u21326 ?\u-30644 ?\u19994 ?\u-28818 ?\u25442 ?\u28151 ?\u21512 ?\line
+\u19996 ?\u26041 ?\u32418 ?\u20135 ?\u19994 ?\u21319 ?\u32423 ?\u28151 ?\u21512 ?\line
+\u27719 ?\u28155 ?\u23500 ?\u-31523 ?\u31609 ?\u31283 ?\u20581 ?\u28151 ?\u21512 ?\line
+\u27665 ?\u29983 ?\u21152 ?\u-27402 ?\u31574 ?\u30053 ?\u31934 ?\u-28663 ?\u28151 ?\u21512 ?\line
+\u28023 ?\u23500 ?\u-28646 ?\u-27073 ?\u23572 ?\u27861 ?\u23545 ?\u20914 ?\u28151 ?\u21512 ?\line
+\u22269 ?\u23500 ?\u24377 ?\u24615 ?\u24066 ?\u20540 ?\u28151 ?\u21512 ?\line
+\u22025 ?\u23454 ?\u27888 ?\u21644 ?\u28151 ?\u21512 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark13}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u19977 ?\u31946 ?\u24320 ?\u25918 ?\u24335 ?
+\u28151 ?\u28493 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark13}
+\par
+\pard\plain\li480\qc\sa744\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u19996 ?\u26041 ?\u32418 ?\u27818 ?\u28207 ?
+\u28145 ?\u28151 ?\u21512 ?\line
+\u21069 ?\u28023 ?\u24320 ?\u28304 ?\u24037 ?\u19994 ?\u-26775 ?\u21629 ?4\u8216 ?0\u28151 ?\u21512 ?\line
+\u26223 ?\u-26502 ?\u-27265 ?\u22478 ?\u26032 ?\u20852 ?\u25104 ?\u-27265 ?\u28151 ?\u21512 ?\line
+\u27719 ?\u28155 ?\u23500 ?\u28040 ?\u-29383 ?\u-30644 ?\u19994 ?\u28151 ?\u21512 ?\line
+\u20132 ?\u-27402 ?\u23450 ?\u26399 ?\u25903 ?\u20184 ?\u21452 ?\u24687 ?\u24179 ?\u-30623 ?\u28151 ?\u21512 ?\line
+\u20013 ?\u27431 ?\u26126 ?\u30591 ?\u26032 ?\u24120 ?\u24577 ?\u28151 ?\u21512 ?\line
+\u-27402 ?\u21326 ?\u23500 ?\u-30507 ?\u20027 ?\u-26472 ?\u28151 ?\u21512 ?\line
+\u22025 ?\u23454 ?\u20248 ?\u21270 ?\u32418 ?\u21033 ?\u28151 ?\u21512 ?\line
+\u24191 ?\u21457 ?\u31283 ?\u20581 ?\u22686 ?\u-27265 ?\u28151 ?\u21512 ?\line
+\u-25009 ?\u21326 ?\u28040 ?\u-29383 ?\u20248 ?\u-28663 ?\u28151 ?\u21512 ?\line
+\u20013 ?\u27431 ?\u21307 ?\u30103 ?\u20581 ?\u24247 ?\u28151 ?\u21512 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sa539\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark14}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u19971 ?\u31946 ?\u24320 ?\u25918 ?\u24335 ?
+\u20538 ?\u21048 ?\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark14}
+\par
+\pard\plain\li480\qc\sa684\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u21338 ?\u26102 ?\u20449 ?\u29992 ?\u20538 ?
+\u32431 ?\u20538 ?\u20538 ?\u21048 ?\line
+\u25307 ?\u21830 ?\u20135 ?\u19994 ?\u20538 ?\u21048 ?\line
+\u22269 ?\u25237 ?\u29790 ?\u-27402 ?\u20248 ?\u21270 ?\u22686 ?\u24378 ?\u20538 ?\u21048 ?\line
+\u24314 ?\u20449 ?\u21452 ?\u24687 ?\u32418 ?\u21033 ?\u20538 ?\u21048 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sa516\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark15}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u20116 ?\u24180 ?\u26399 ?\u24320 ?\u-29365 ?
+\u20538 ?\u21048 ?\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark15}
+\par
+\pard\plain\li480\qc\sa744\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u22823 ?\u25705 ?\u28155 ?\u21033 ?18\u20010 ?
+\u26376 ?\u24320 ?\u25918 ?\u20538 ?\u21048 ?\line
+\u21335 ?\u26041 ?\u-28646 ?\u21033 ?\u20538 ?\u21048 ?\line
+\u-25009 ?\u21326 ?\u20016 ?\u-30835 ?\u23450 ?\u26399 ?\u24320 ?\u25918 ?\u20538 ?\u21048 ?\line
+\u24037 ?\u-27402 ?\u29790 ?\u20449 ?\u21452 ?\u21033 ?\u20538 ?\u21048 ?\line
+\u22825 ?\u24344 ?\u27704 ?\u21033 ?\u20538 ?\u21048 ?}
+\par
+\pard\plain\cbpat1\keep\keepn\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark16}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u19977 ?\u31946 ?\u24320 ?\u-29380 ?\u-26025 ?
+\u22411 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark16}
+{\page
+}
+\par
+\pard\plain\li1180\qc\sa678\sl-533\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u21326 ?\u27888 ?\u26575 ?\u29790 ?\u23395 ?
+\u23395 ?\u32418 ?\u20538 ?\u21048 ?\line
+\u21326 ?\u23433 ?\u32431 ?\u20538 ?\u20538 ?\u21048 ?\line
+\u-27402 ?\u21326 ?\u20449 ?\u29992 ?\u23395 ?\u23395 ?\u32418 ?\u20538 ?\u21048 ?\line
+\u27665 ?\u29983 ?\u21152 ?\u-27402 ?\u-27541 ?\u20139 ?\u20538 ?\u21048 ?\line
+\u25307 ?\u21830 ?\u21452 ?\u20538 ?\u22686 ?\u24378 ?\u20538 ?\u21048 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 (}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 LOF}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 )}
+\par
+\pard\plain\cbpat1\keep\keepn\sa509\sl-360\slmult0\outlinelevel1\wrapdefault\s26\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0
+\scaps0\fs36\afs36\cf18
+{\*\bkmkstart bookmark17}
+{\cs22\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs36\afs36\charscalex100\expndtw0\cf8\dn0 |\u19977 ?\u-29452 ?\u24320 ?\u-29365 ?\u25351 ?
+\u-24907 ?\u25345 ?\u32493 ?\u20248 ?\u-32548 ?\u-28207 ?\u29275 ?\u22522 ?\u-28207 ?|}
+{\*\bkmkend bookmark17}
+\par
+\pard\plain\li1180\qc\sa1184\sl-540\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u21335 ?\u26041 ?\u20013 ?\u-29759 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 500}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 ETF\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u21326 ?\u27888 ?\u26575 ?\u29790 ?\u27818 ?
+\u28145 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 300}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 ETF\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u21326 ?\u22799 ?\u19978 ?\u-29759 ?}
+{\cs23\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 50}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 ETF\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u22269 ?\u27888 ?\u20013 ?\u-29759 ?\u20840 ?
+\u25351 ?\u-29759 ?\u21048 ?\u20844 ?\u21496 ?}
+{\cs25\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 ETF\line
+}
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 \u20892 ?\u-27402 ?\u27719 ?\u29702 ?\u27818 ?
+\u28145 ?300\u25351 ?\u25968 ?\line
+\u26131 ?\u26041 ?\u-28738 ?\u19978 ?\u-29759 ?50\u25351 ?\u25968 ?\u22686 ?\u24378 ?}
+\par
+\pard\plain\qr\sl-260\slmult0\wrapdefault\s29\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0\fs26\afs26
+{\cs23\lang2052\langfe2052\b0\i0\ul0\strike0\scaps0\fs26\afs26\charscalex100\expndtw0\cf1\dn0 (\u25490 ?\u21517 ?\u19981 ?\u20998 ?\u21069 ?
+\u21518 ?)}
+\par
+}
